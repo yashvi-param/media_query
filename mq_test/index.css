@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container-fluid{
+    background-color: #292d33;
+    margin-top: 100px;
+    width: 100%;
+}
+.p-20{
+    padding: 20px;
+}
+.container{
+    max-width:1320px;
+    margin:auto;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+.blog1 h5{
+    text-align: center;
+    color:white;
+    font-family: Oswald, sans-serif;
+    font-size: 72px;
+}
+.blog1 p{
+    text-align: center;
+    color:white;
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.blog p a{
+    display: inline;
+    color:white;
+}
+.box{
+    background-color: white;
+}
+.box img{
+    width:100%;
+}
+.head{
+    background-color: white;
+    margin:20px;
+    text-align: center;
+}
+.head a{
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 24px;
+    color:black;
+}
+.head p{
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top:20px;
+}
+.post{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.post a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:black;
+}
+.more{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.more a{
+    border:1px solid white;
+    color:white;
+    padding:10px 10px 10px 10px;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
